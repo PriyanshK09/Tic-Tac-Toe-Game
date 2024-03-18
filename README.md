@@ -28,7 +28,7 @@ A live demo of the game can be accessed [here](https://ticc-tacc-toee-07.netlify
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
 
 ## 📧 Contact
-For any inquiries or feedback, feel free to reach out via email at [priyanshkhare4905@gmail.com](mailto:priyanshkhare4905@gmail.com).
+For any inquiries or feedback, feel free to reach out via email at [EMAIL ME!](mailto:priyanshkhare4905@gmail.com).
 
 ## 🤝 Contribution
 Contributions are always welcome. If you are interested in enhancing the features in the project, follow these steps below:
